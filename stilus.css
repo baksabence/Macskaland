@@ -1,0 +1,49 @@
+body {
+    color:white;
+    margin: auto;
+    text-align: center;
+    width: 90%;
+    max-width: 100%;
+
+}
+.tarolo {
+    border: 1px solid black;
+    width: 900px;
+    max-width: 900px;
+    margin: auto;
+
+}
+
+.szoveg {
+    padding: 10px;
+}
+
+.fejlec {
+    background-image: url("hero.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    padding: 10px;
+    height: 100vh;
+}
+
+.menu ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 10;
+    display: grid;
+    grid-template-columns: 210px 210px 210px 210px;
+    gap: 15px;
+}
+
+.menu ul li{
+    padding: 13px;
+    background-color: orange;
+    text-align: center;
+    border-radius: 40px;
+}
+
+.menu ul a {
+    text-decoration: none;
+    color: white;
+}
