@@ -85,3 +85,173 @@ h1{
     color: white;
     padding: 10px;
 }
+
+.text{
+    position: absolute;
+    right: 59%;
+    top: 82%;
+}
+.textketto{
+    position: absolute;
+    left: 65%;
+    top: 82%;
+}
+.textharom{
+    position: absolute;
+    right: 58%;
+    top: 198%;
+    color: white;
+}
+
+.elhelyezes{
+    width: 49%;
+    border-radius: 25px;
+
+}
+
+.textnegy{
+    position: absolute;
+    right: 35%;
+    top: 198%;
+
+    color: white;
+}
+.benti{
+    background-color: rgb(32, 32, 32);
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.tartalombenti ul{
+    text-align: left;
+}
+.eger{
+    width: 12%;
+}
+.hal{
+    width: 9%;
+}
+.grideger{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 30px;
+    gap: 15px;
+}
+.macskajatek{
+    text-align: center;
+}
+.tartalomfedezd h1{
+    color: white;
+    text-align: center;
+}
+.fedezd{
+    background-color: rgb(32, 32, 32);
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+.egerke{
+    background-color: white;
+    padding: 5px;
+    border-radius: 15px;
+}
+.macskajatek{
+    color: black;
+}
+.gombegy{
+    text-align: center;
+    padding: 15px;
+    background-color: orange;
+    border-radius: 20px;
+    color: white;
+    display: grid;
+    grid-template-columns: 1fr;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 33px; 
+}
+.grideger a{
+    text-decoration: none;
+    color: white;
+}
+.halacska{
+    background-color: white;
+    padding: 5px;
+    border-radius: 15px;
+}
+.konyha{
+    color: black;
+    text-align: center;
+}
+.gombketto{
+    text-align: center;
+    padding: 15px;
+    background-color: orange;
+    border-radius: 20px;
+    color: white;
+    display: grid;
+    grid-template-columns: 1fr;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.esemeny{
+    background-color: rgb(32, 32, 32);
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+.gombharom{
+    text-align: center;
+    padding: 15px;
+    border: 3px solid orange;
+    border-radius: 20px;
+    color: white;
+    display: grid;
+    grid-template-columns: 1fr;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 33px;
+}
+.gombnegy{
+    text-align: center;
+    padding: 15px;
+    border: 3px solid orange;
+    border-radius: 20px;
+    color: white;
+    display: grid;
+    grid-template-columns: 1fr;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.gridmacska{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 30px;
+    gap: 15px;
+}
+.macskashow{
+    background-color: rgb(71, 71, 71);
+    padding: 5px;
+    border-radius: 15px;
+    border: 2px solid rgb(189, 189, 189);
+}
+.ugyessegi{
+    background-color: rgb(71, 71, 71);
+    padding: 5px;
+    border-radius: 15px;
+    border: 2px solid rgb(189, 189, 189);
+}
+.ugyes{
+    padding-left: 15px;
+}
+.macskamusor{
+    padding-left: 15px;
+}
+.tartalomesemeny h1{
+    text-align: center;
+}
+.gridmacska a{
+    text-decoration: none;
+    color: white;
+}
